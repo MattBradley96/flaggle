@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/flaggle/static/css/main.3b530ac4.css",
-    "main.js": "/flaggle/static/js/main.0e9e2c59.js",
+    "main.js": "/flaggle/static/js/main.84234707.js",
     "static/js/787.c1c2c7e4.chunk.js": "/flaggle/static/js/787.c1c2c7e4.chunk.js",
     "service-worker.js": "/flaggle/service-worker.js",
     "index.html": "/flaggle/index.html",
     "main.3b530ac4.css.map": "/flaggle/static/css/main.3b530ac4.css.map",
-    "main.0e9e2c59.js.map": "/flaggle/static/js/main.0e9e2c59.js.map",
+    "main.84234707.js.map": "/flaggle/static/js/main.84234707.js.map",
     "787.c1c2c7e4.chunk.js.map": "/flaggle/static/js/787.c1c2c7e4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3b530ac4.css",
-    "static/js/main.0e9e2c59.js"
+    "static/js/main.84234707.js"
   ]
 }
