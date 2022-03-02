@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/flaggle/static/css/main.3b530ac4.css",
+    "main.js": "/flaggle/static/js/main.9744f7fe.js",
+    "static/js/787.e562568f.chunk.js": "/flaggle/static/js/787.e562568f.chunk.js",
+    "service-worker.js": "/flaggle/service-worker.js",
+    "index.html": "/flaggle/index.html",
+    "main.3b530ac4.css.map": "/flaggle/static/css/main.3b530ac4.css.map",
+    "main.9744f7fe.js.map": "/flaggle/static/js/main.9744f7fe.js.map",
+    "787.e562568f.chunk.js.map": "/flaggle/static/js/787.e562568f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b530ac4.css",
+    "static/js/main.9744f7fe.js"
+  ]
+}
